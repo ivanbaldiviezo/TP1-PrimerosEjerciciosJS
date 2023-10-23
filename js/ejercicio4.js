@@ -3,3 +3,6 @@ Ejemplo:
 
 input: Coder      Output: Hola Coder
 */
+
+let nombreUsuario = prompt('Ingrese un Nombre de usuario');
+document.write("Hola "+ nombreUsuario);
